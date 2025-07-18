@@ -10,6 +10,7 @@ import image7 from "./images/07.png"
 import image8 from "./images/08.png"
 import image9 from "./images/09.png"
 import image10 from "./images/10.png"
+import image11 from "./images/11.png"
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
                <Image src={image8} preview={false}/>
                <Image src={image9} preview={false}/>
                <Image src={image10} preview={false}/>
+               <Image src={image11} preview={false}/>
          </div>
     </>
   )
